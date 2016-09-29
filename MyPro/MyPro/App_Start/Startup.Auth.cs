@@ -54,9 +54,9 @@ namespace MyPro
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "1786383938303540",
+               appSecret: "96db2bd3c312bac0c63852b35d7ef762");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{

@@ -7,7 +7,7 @@
 <h2>@ViewBag.Title.</h2>
 <div class="row">
     <div class="col-md-8">
-        <section id="loginForm">
+       @* <section id="loginForm">
             @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
             {
                 @Html.AntiForgeryToken()
@@ -43,13 +43,13 @@
                 </div>
                 <p>
                     @Html.ActionLink("Регистрация нового пользователя", "Register")
-                </p>
+                </p>*@
                 @* Включите, когда будет включено подтверждение учетной записи для функции сброса пароля
                     <p>
                         @Html.ActionLink("Забыли пароль?", "ForgotPassword")
                     </p>*@
             }
-        </section>
+       @* </section>*@
     </div>
     <div class="col-md-4">
         <section id="socialLoginForm">
@@ -57,7 +57,6 @@
         </section>
     </div>
 </div>
-
 @section Scripts {
     @Scripts.Render("~/bundles/jqueryval")
 }

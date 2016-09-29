@@ -71,3 +71,4 @@ C:\Users\Рассвет\Documents\Visual Studio 2013\Projects\GitMyPro\GitMyPro\
 C:\Users\Рассвет\Documents\Visual Studio 2013\Projects\GitMyPro\GitMyPro\MyPro\MyPro\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\Рассвет\Documents\Visual Studio 2013\Projects\GitMyPro\GitMyPro\MyPro\MyPro\obj\Debug\MyPro.dll
 C:\Users\Рассвет\Documents\Visual Studio 2013\Projects\GitMyPro\GitMyPro\MyPro\MyPro\obj\Debug\MyPro.pdb
+C:\Users\Рассвет\Documents\Visual Studio 2013\Projects\GitMyPro\GitMyPro\MyPro\MyPro\obj\Debug\MyPro.csprojResolveAssemblyReference.cache
